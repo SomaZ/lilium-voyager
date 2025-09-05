@@ -49,5 +49,5 @@ Lilium Voyager is licensed under [the GNU GPLv2](COPYING.txt) (or at your option
 
 ## Contributing
 
-Please submit all patches as a GitHub pull request.
+Please submit patches through GitHub pull requests.
 
